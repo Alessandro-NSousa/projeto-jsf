@@ -1,0 +1,5 @@
+package br.eti.amazu.infra.view.bean;
+
+public class UserSessionInBean {
+
+}

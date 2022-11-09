@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/alles/.m2/repository/org/glassfish/jakarta.el/3.0.3.jbossorg-2/jakarta.el-3.0.3.jbossorg-2.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/weld/weld-core-impl/3.1.3.Final/weld-core-impl-3.1.3.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/core/wildfly-deployment-repository/11.0.0.Final/wildfly-deployment-repository-11.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/core/wildfly-request-controller/11.0.0.Final/wildfly-request-controller-11.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/wildfly-naming/19.0.0.Final/wildfly-naming-19.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/jboss-vfs/3.2.15.Final/jboss-vfs-3.2.15.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/core/wildfly-core-security-api/11.0.0.Final/wildfly-core-security-api-11.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/core/wildfly-core-security/11.0.0.Final/wildfly-core-security-11.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/wildfly-weld-spi/19.0.0.Final/wildfly-weld-spi-19.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/metadata/jboss-metadata-common/13.0.0.Final/jboss-metadata-common-13.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/stdio/jboss-stdio/1.1.0.Final/jboss-stdio-1.1.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/spec/javax/transaction/jboss-transaction-api_1.3_spec/2.0.0.Final/jboss-transaction-api_1.3_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/picketbox/picketbox/5.0.3.Final/picketbox-5.0.3.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/projectodd/vdx/vdx-wildfly/1.1.6/vdx-wildfly-1.1.6.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/invocation/jboss-invocation/1.5.2.Final/jboss-invocation-1.5.2.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/core/wildfly-server/11.0.0.Final/wildfly-server-11.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/marshalling/jboss-marshalling/2.0.9.Final/jboss-marshalling-2.0.9.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/wildfly-naming-client/1.0.12.Final/wildfly-naming-client-1.0.12.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/msc/jboss-msc/1.4.11.Final/jboss-msc-1.4.11.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/core/wildfly-remoting/11.0.0.Final/wildfly-remoting-11.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/jakarta/enterprise/jakarta.enterprise.cdi-api/2.0.2/jakarta.enterprise.cdi-api-2.0.2.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/spec/javax/enterprise/concurrent/jboss-concurrency-api_1.0_spec/2.0.0.Final/jboss-concurrency-api_1.0_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/spec/javax/servlet/jsp/jboss-jsp-api_2.3_spec/2.0.0.Final/jboss-jsp-api_2.3_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/core/wildfly-core-management-client/11.0.0.Final/wildfly-core-management-client-11.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/weld/weld-spi/3.1.SP2/weld-spi-3.1.SP2.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/core/wildfly-protocol/11.0.0.Final/wildfly-protocol-11.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/logging/jboss-logging/3.4.1.Final/jboss-logging-3.4.1.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/jboss-dmr/1.5.0.Final/jboss-dmr-1.5.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/hibernate/validator/hibernate-validator/6.0.18.Final/hibernate-validator-6.0.18.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/core/wildfly-controller/11.0.0.Final/wildfly-controller-11.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/spec/javax/faces/jboss-jsf-api_2.3_spec/3.0.0.SP01/jboss-jsf-api_2.3_spec-3.0.0.SP01.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/classfilewriter/jboss-classfilewriter/1.2.4.Final/jboss-classfilewriter-1.2.4.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/spec/javax/security/auth/message/jboss-jaspi-api_1.1_spec/2.0.1.Final/jboss-jaspi-api_1.1_spec-2.0.1.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/core/wildfly-network/11.0.0.Final/wildfly-network-11.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/com/sun/faces/jsf-impl/2.3.9.SP06/jsf-impl-2.3.9.SP06.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.3.9.SP06.jar/meta-inf/html_basic.tld" project="blanckapp"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.3.9.SP06.jar/meta-inf/jsf_core.tld" project="blanckapp"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.3.9.SP06.jar/meta-inf/mojarra_ext.taglib.xml" project="blanckapp"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.3.9.SP06.jar/meta-inf/mojarra_ext.tld" project="blanckapp"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.3.9.SP06.jar/com/sun/faces/metadata/taglib/html_basic.taglib.xml" project="blanckapp"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.3.9.SP06.jar/com/sun/faces/metadata/taglib/jstl-core.taglib.xml" project="blanckapp"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-jsf-impl-2.3.9.SP06.jar/com/sun/faces/metadata/taglib/jstl-fn.taglib.xml" project="blanckapp"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/alles/.m2/repository/com/fasterxml/classmate/1.3.4/classmate-1.3.4.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/core/wildfly-domain-management/11.0.0.Final/wildfly-domain-management-11.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/marshalling/jboss-marshalling-river/2.0.0.Final/jboss-marshalling-river-2.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/core/wildfly-domain-http-interface/11.0.0.Final/wildfly-domain-http-interface-11.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/spec/javax/ejb/jboss-ejb-api_3.2_spec/1.0.0.Final/jboss-ejb-api_3.2_spec-1.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/core/wildfly-process-controller/11.0.0.Final/wildfly-process-controller-11.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/logmanager/jboss-logmanager/2.1.14.Final/jboss-logmanager-2.1.14.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/threads/jboss-threads/2.3.3.Final/jboss-threads-2.3.3.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/com/googlecode/javaewah/JavaEWAH/1.1.6/JavaEWAH-1.1.6.jar"/>
+  <path value="C:/Users/alles/.m2/repository/jakarta/inject/jakarta.inject-api/1.0/jakarta.inject-api-1.0.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/core/wildfly-io/11.0.0.Final/wildfly-io-11.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/xnio/xnio-api/3.7.7.Final/xnio-api-3.7.7.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/commons-codec/commons-codec/1.14/commons-codec-1.14.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/jandex/2.1.2.Final/jandex-2.1.2.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.2_spec/2.0.0.Final/jboss-interceptors-api_1.2_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/security/elytron-web/undertow-server/1.7.0.Final/undertow-server-1.7.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/wildfly-web-common/19.0.0.Final/wildfly-web-common-19.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/eclipse/jgit/org.eclipse.jgit/5.0.2.201807311906-r/org.eclipse.jgit-5.0.2.201807311906-r.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/glassfish/jakarta.enterprise.concurrent/1.1.1/jakarta.enterprise.concurrent-1.1.1.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/primefaces/primefaces/8.0/primefaces-8.0.jar">
+   <libraries>
+    <library class="faces-config">
+     <id class="model-object"
+      path="FileSystems/lib-primefaces-8.0.jar/meta-inf/faces-config.xml" project="blanckapp"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-primefaces-8.0.jar/meta-inf/primefaces-p.taglib.xml" project="blanckapp"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/alles/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/core/wildfly-controller-client/11.0.0.Final/wildfly-controller-client-11.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/wildfly-bean-validation/19.0.0.Final/wildfly-bean-validation-19.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/wildfly-weld-common/19.0.0.Final/wildfly-weld-common-19.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/omnifaces/omnifaces/3.6/omnifaces-3.6.jar"/>
+  <path value="C:/Users/alles/.m2/repository/commons-io/commons-io/2.6/commons-io-2.6.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/core/wildfly-platform-mbean/11.0.0.Final/wildfly-platform-mbean-11.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/staxmapper/1.3.0.Final/staxmapper-1.3.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/wildfly-http-client/wildfly-http-client-common/1.0.20.Final/wildfly-http-client-common-1.0.20.Final.jar"/>
+  <path value="/blanckapp/src/main/webapp/resources/components">
+   <libraries>
+    <library class="composite">
+     <id class="model-object"
+      path="FileSystems/WEB-ROOT/resources/components" project="blanckapp"/>
+     <attributes>
+      <entry name="uri">
+       <value-info value="http://java.sun.com/jsf/composite/components"/>
+      </entry>
+     </attributes>
+     <component class="composite" path="/blanckapp/src/main/webapp/resources/components/dialog.xhtml">
+      <id class="model-object" path="/dialog.xhtml" project="blanckapp"/>
+      <attributes>
+       <entry name="name">
+        <value-info value="dialog"/>
+       </entry>
+      </attributes>
+     </component>
+     <component class="composite" path="/blanckapp/src/main/webapp/resources/components/DialogConfirm.xhtml">
+      <id class="model-object" path="/dialogconfirm.xhtml" project="blanckapp"/>
+      <attributes>
+       <entry name="name">
+        <value-info value="DialogConfirm"/>
+       </entry>
+      </attributes>
+     </component>
+     <component class="composite" path="/blanckapp/src/main/webapp/resources/components/upload.xhtml">
+      <id class="model-object" path="/upload.xhtml" project="blanckapp"/>
+      <attributes>
+       <entry name="name">
+        <value-info value="upload"/>
+       </entry>
+      </attributes>
+      <attribute class="composite">
+       <id class="model-object" path="/upload.xhtml/Interface/sizeLimit" project="blanckapp"/>
+      </attribute>
+      <attribute class="composite">
+       <id class="model-object"
+        path="/upload.xhtml/Interface/invalidFileMessage" project="blanckapp"/>
+      </attribute>
+      <attribute class="composite">
+       <id class="model-object" path="/upload.xhtml/Interface/update" project="blanckapp"/>
+      </attribute>
+      <attribute class="composite">
+       <id class="model-object" path="/upload.xhtml/Interface/label" project="blanckapp"/>
+      </attribute>
+      <attribute class="composite">
+       <id class="model-object"
+        path="/upload.xhtml/Interface/invalidSizeMessage" project="blanckapp"/>
+      </attribute>
+      <attribute class="composite">
+       <id class="model-object" path="/upload.xhtml/Interface/bean" project="blanckapp"/>
+      </attribute>
+      <attribute class="composite">
+       <id class="model-object"
+        path="/upload.xhtml/Interface/allowTypes" project="blanckapp"/>
+      </attribute>
+     </component>
+     <component class="composite" path="/blanckapp/src/main/webapp/resources/components/progressbar.xhtml">
+      <id class="model-object" path="/progressbar.xhtml" project="blanckapp"/>
+      <attributes>
+       <entry name="name">
+        <value-info value="progressbar"/>
+       </entry>
+      </attributes>
+      <attribute class="composite">
+       <id class="model-object"
+        path="/progressbar.xhtml/Interface/widgetVar" project="blanckapp"/>
+      </attribute>
+     </component>
+     <component class="composite" path="/blanckapp/src/main/webapp/resources/components/status.xhtml">
+      <id class="model-object" path="/status.xhtml" project="blanckapp"/>
+      <attributes>
+       <entry name="name">
+        <value-info value="status"/>
+       </entry>
+      </attributes>
+     </component>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/alles/.m2/repository/jakarta/validation/jakarta.validation-api/2.0.2/jakarta.validation-api-2.0.2.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/modules/jboss-modules/1.10.0.Final/jboss-modules-1.10.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/projectodd/vdx/vdx-core/1.1.6/vdx-core-1.1.6.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/xnio/xnio-nio/3.3.8.Final/xnio-nio-3.3.8.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/metadata/jboss-metadata-web/13.0.0.Final/jboss-metadata-web-13.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/wildfly-ee/19.0.0.Final/wildfly-ee-19.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/metadata/jboss-metadata-ear/13.0.0.Final/jboss-metadata-ear-13.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/wildfly-http-client/wildfly-http-naming-client/1.0.20.Final/wildfly-http-naming-client-1.0.20.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/spec/javax/el/jboss-el-api_3.0_spec/2.0.0.Final/jboss-el-api_3.0_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/com/jcraft/jsch/0.1.54/jsch-0.1.54.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/common/wildfly-common/1.5.2.Final/wildfly-common-1.5.2.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/security/wildfly-elytron/1.11.2.Final/wildfly-elytron-1.11.2.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/client/wildfly-client-config/1.0.0.CR2/wildfly-client-config-1.0.0.CR2.jar"/>
+  <path value="C:/Users/alles/.m2/repository/com/jcraft/jzlib/1.1.1/jzlib-1.1.1.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/spec/javax/annotation/jboss-annotations-api_1.3_spec/2.0.1.Final/jboss-annotations-api_1.3_spec-2.0.1.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/weld/weld-api/3.1.SP2/weld-api-3.1.SP2.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/spec/javax/servlet/jboss-servlet-api_4.0_spec/2.0.0.Final/jboss-servlet-api_4.0_spec-2.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/io/undertow/undertow-core/2.0.30.Final/undertow-core-2.0.30.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/weld/module/weld-ejb/3.1.3.Final/weld-ejb-3.1.3.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/jboss/remoting/jboss-remoting/5.0.17.Final/jboss-remoting-5.0.17.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/wildfly-jsf/19.0.0.Final/wildfly-jsf-19.0.0.Final.jar"/>
+  <path value="C:/Users/alles/.m2/repository/org/wildfly/core/wildfly-version/11.0.0.Final/wildfly-version-11.0.0.Final.jar"/>
+ </paths>
+ <includes/>
+ <aliases/>
+ <uris/>
+</kb-project>

@@ -1,0 +1,5 @@
+package br.eti.amazu.component.dialog;
+
+public enum DialogType {
+
+}

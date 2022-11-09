@@ -1,0 +1,15 @@
+package com.aula;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringWebJpaApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringWebJpaApplication.class, args);
+		
+		System.out.println("alo");
+	}
+
+}

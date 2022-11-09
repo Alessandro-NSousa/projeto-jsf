@@ -1,0 +1,5 @@
+package br.eti.amazu.blankapp;
+
+public class HelloServlet {
+
+}

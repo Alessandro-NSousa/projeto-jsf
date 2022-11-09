@@ -1,0 +1,5 @@
+package br.eti.amazu.component.progressbar;
+
+public class ProgressBean {
+
+}

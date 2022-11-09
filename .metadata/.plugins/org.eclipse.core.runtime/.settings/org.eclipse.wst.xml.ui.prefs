@@ -1,0 +1,7 @@
+commentBorder=\#ff8000 | null | false | false | false | false
+commentText=\#ff8000 | null | false | false | false | false
+eclipse.preferences.version=1
+newFileTemplateName=xml declaration
+org.eclipse.wst.sse.ui.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart.lastActivePage=1
+xmlContent=\#8000ff | null | false | false | false | false

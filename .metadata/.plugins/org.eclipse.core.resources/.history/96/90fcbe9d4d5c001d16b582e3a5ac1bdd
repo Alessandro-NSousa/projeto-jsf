@@ -1,0 +1,5 @@
+package br.eti.amazu.component.pworld.domain;
+
+public abstract class AbstractEntity {
+
+}

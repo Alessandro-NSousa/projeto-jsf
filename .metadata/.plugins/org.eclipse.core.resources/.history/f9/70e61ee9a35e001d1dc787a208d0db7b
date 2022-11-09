@@ -1,0 +1,5 @@
+package br.eti.amazu.infra.view.validator;
+
+public class Phonevalidator {
+
+}

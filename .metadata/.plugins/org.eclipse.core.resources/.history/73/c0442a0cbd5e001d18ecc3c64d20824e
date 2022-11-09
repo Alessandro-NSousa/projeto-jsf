@@ -1,0 +1,5 @@
+package br.eti.amazu.infra.util;
+
+public class FileUtil {
+
+}
