@@ -22,12 +22,14 @@
 				emptyMessage="Nenhum veículo cadastrado."
 				style="width:500px;text-align:center;">
 
-				<f:facet name="header">Veículos cadastrados</f:facet>
+				<f:facet name="header">
+                    Lista de Veiculos 
+            </f:facet>
 
-				<p:column headerText="Marca">#{veiculo.marca}</p:column>
-				<p:column headerText="Modelo">#{veiculo.modelo}</p:column>
-				<p:column headerText="Cor">#{veiculo.cor}</p:column>
-				<p:column headerText="Ano">#{veiculo.ano}</p:column>
+				<p:column headerText="Marca" filterBy="#{veiculo.marca}" sortBy="#{veiculo.marca}">#{veiculo.marca}</p:column>
+				<p:column headerText="Modelo" filterBy="#{veiculo.modelo}" sortBy="#{veiculo.modelo}">#{veiculo.modelo}</p:column>
+				<p:column headerText="Cor" filterBy="#{veiculo.cor}" sortBy="#{veiculo.cor}">#{veiculo.cor}</p:column>
+				<p:column headerText="Ano" filterBy="#{veiculo.ano}" sortBy="#{veiculo.ano}">#{veiculo.ano}</p:column>
 
 				<p:column headerText="Ações">
 					<p:commandButton icon="pi pi-trash" styleClass="imgButton"
@@ -44,7 +46,7 @@
 
 			<a:status />
 
-			<p:commandButton value="Show Case"
+			<p:commandButton value="Pagina Incial"
 				action="/pages/showcase/homeShowCase" />
 			<br />
 			<br />

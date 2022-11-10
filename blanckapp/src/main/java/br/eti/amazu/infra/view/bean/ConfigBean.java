@@ -46,7 +46,7 @@ public class ConfigBean implements Serializable {
 		config.setSkinColorTextLogo("13f02d"); // ............A cor do texto do logotipo;
 		config.setSkinAnimatedHtml("blankapp_topo_anime.xhtml"); // .O Html5 anim
 //Isto eh o que serah escrito no rodapeh da pagina.
-		config.setSkinFooter("Privacy Policy | Amazu Technology | Copyright \u00A9 2018 -" + " All rights reserved");
+		config.setSkinFooter("Privacy Policy | Amazu Technology | Copyright \u00A9 2022 -" + " All rights reserved");
 		/*
 		 * ======================================== MODERNIZACAO DOS TEMAS DO PRIMEFACES
 		 * O tema default agora serah o nova-light.
